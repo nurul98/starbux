@@ -1,0 +1,58 @@
+D:\Final Year Project Farah\starbux\starbux\bin\starbux.dll
+D:\Final Year Project Farah\starbux\starbux\bin\starbux.pdb
+D:\Final Year Project Farah\starbux\starbux\obj\Debug\ResolveAssemblyReference.cache
+D:\Final Year Project Farah\starbux\starbux\obj\Debug\starbux.dll
+D:\Final Year Project Farah\starbux\starbux\obj\Debug\starbux.pdb
+J:\Final Year Project Farah\starbux\starbux\bin\starbux.dll
+J:\Final Year Project Farah\starbux\starbux\bin\starbux.pdb
+J:\Final Year Project Farah\starbux\starbux\obj\Debug\ResolveAssemblyReference.cache
+J:\Final Year Project Farah\starbux\starbux\obj\Debug\starbux.dll
+J:\Final Year Project Farah\starbux\starbux\obj\Debug\starbux.pdb
+D:\FYP Farah\starbux\bin\starbux.dll
+D:\FYP Farah\starbux\bin\starbux.pdb
+D:\FYP Farah\starbux\obj\Debug\ResolveAssemblyReference.cache
+D:\FYP Farah\starbux\obj\Debug\starbux.dll
+D:\FYP Farah\starbux\obj\Debug\starbux.pdb
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\obj\Debug\starbux.dll
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\obj\Debug\starbux.pdb
+I:\Starbucks\starbux\obj\Debug\ResolveAssemblyReference.cache
+I:\Starbucks\starbux\obj\Debug\starbux.dll
+I:\Starbucks\starbux\obj\Debug\starbux.pdb
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\Starbucks\starbux\obj\Debug\ResolveAssemblyReference.cache
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\Starbucks\starbux\obj\Debug\starbux.dll
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\Starbucks\starbux\obj\Debug\starbux.pdb
+J:\FYP BackUp\Starbucks\starbux\obj\Debug\ResolveAssemblyReference.cache
+J:\FYP BackUp\Starbucks\starbux\obj\Debug\starbux.dll
+J:\FYP BackUp\Starbucks\starbux\obj\Debug\starbux.pdb
+F:\FYP BackUp\Starbucks\starbux\obj\Debug\ResolveAssemblyReference.cache
+F:\FYP BackUp\Starbucks\starbux\obj\Debug\starbux.dll
+F:\FYP BackUp\Starbucks\starbux\obj\Debug\starbux.pdb
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\bin\starbux.dll
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\bin\starbux.pdb
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\StarbucksToday\starbux\bin\starbux.dll
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\StarbucksToday\starbux\bin\starbux.pdb
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\StarbucksToday\starbux\obj\Debug\ResolveAssemblyReference.cache
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\StarbucksToday\starbux\obj\Debug\starbux.dll
+D:\Uniten Stuff\sem 7\CGNB424 Project 2\System\StarbucksToday\starbux\obj\Debug\starbux.pdb
+C:\Users\faraholic\Desktop\Starbucks\starbux\bin\starbux.dll
+C:\Users\faraholic\Desktop\Starbucks\starbux\bin\starbux.pdb
+C:\Users\faraholic\Desktop\Starbucks\starbux\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\faraholic\Desktop\Starbucks\starbux\obj\Debug\starbux.dll
+C:\Users\faraholic\Desktop\Starbucks\starbux\obj\Debug\starbux.pdb
+C:\Users\faraholic\Desktop\Starbucksfuture\starbux\bin\starbux.dll
+C:\Users\faraholic\Desktop\Starbucksfuture\starbux\bin\starbux.pdb
+C:\Users\faraholic\Desktop\Starbucksfuture\starbux\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\faraholic\Desktop\Starbucksfuture\starbux\obj\Debug\starbux.dll
+C:\Users\faraholic\Desktop\Starbucksfuture\starbux\obj\Debug\starbux.pdb
+F:\Starbucks\starbux\bin\starbux.dll
+F:\Starbucks\starbux\bin\starbux.pdb
+F:\Starbucks\starbux\obj\Debug\ResolveAssemblyReference.cache
+F:\Starbucks\starbux\obj\Debug\starbux.dll
+F:\Starbucks\starbux\obj\Debug\starbux.pdb
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\obj\Debug\starbux.csprojResolveAssemblyReference.cache
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\bin\starbux.dll.config
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\bin\starbux.dll
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\bin\starbux.pdb
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\obj\Debug\starbux.csprojResolveAssemblyReference.cache
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\obj\Debug\starbux.dll
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\Starbucks\starbux\obj\Debug\starbux.pdb
